@@ -5,3 +5,4 @@ Opcje ustawień urządzenia przeniesione do głównego MENU "SETUP" w części T
 
 W opcjach ustawień klucza pojawiła się możlość korzystania z trybu Ultimatic Mode.
 
+Moduł TUTOR bazuje na kodzie Copyright (c) 2020, Bruce E. Hall W8BH udostępnionym na zasadzie Open Source MIT License
