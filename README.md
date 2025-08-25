@@ -1,10 +1,16 @@
 Wersja 6.0.6
+*******************************************************
+Zmiany:
 
-Dodano czat umożliający komunikację pomiędzy urządzeniami z opgrogramowaniem MorseBOX - film z działania czat - https://youtu.be/DHyJ-UOmI7o?si=OxFVMdOVVQe5Ljb5
+1. Dodano Czat umożliający komunikację pomiędzy urządzeniami z opgrogramowaniem MorseBOX - film z działania czat - https://youtu.be/DHyJ-UOmI7o?si=OxFVMdOVVQe5Ljb5
 
-Opcje ustawień urządzenia przeniesione do głównego MENU "SETUP" w części TUTOR pozostały tylko te dotyczące TUTORA.
+2. Opcje ustawień urządzenia przeniesione do głównego MENU "SETUP" w części TUTOR pozostały tylko te dotyczące TUTORA.
 
-W opcjach ustawień klucza pojawiła się możliwość korzystania z trybu Ultimatic Mode.
+3. W opcjach ustawień klucza pojawiła się możliwość korzystania z trybu Ultimatic Mode.
+
+4. W opcjach speed można zwiększyć odstęp pomiędzy nadawanymi znakami 100-500%. 
+
+*******************************************************
 
 Film z wersji 5 omawiający pozostałe funkcje: https://youtu.be/SKYY0fMZa9M?si=7nfEo5wuas7iSE_V
 
