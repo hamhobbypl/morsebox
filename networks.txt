@@ -1,0 +1,4 @@
+#ssid password
+DOMAP PRINTER0112
+Zyxel_1361 7*78DN7d37
+APPRO ab12ab12ab
