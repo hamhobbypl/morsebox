@@ -10,4 +10,7 @@ Film z wersji 5 omawiający pozostałe funkcje: https://youtu.be/SKYY0fMZa9M?si=
 
 Jeśli aktualizujesz MorseTutora z wersją mniejszą niż 4 po aktualizacji będiesz miał prawdopodnie błąd "ERROR CODE: XXXXX". Prześlij mi ten numer i wtedy ja zbuduję Ci wersję która ruszy bez problemu.
 
+Aktualizacj przez kabel gdyby coś poszło nie tak przez WIFI lub jeśli nie masz WIFI: https://youtu.be/KZxYWIiKBls
+
+
 Moduł TUTOR bazuje na kodzie Copyright (c) 2020, Bruce E. Hall W8BH udostępnionym na zasadzie Open Source MIT License.
