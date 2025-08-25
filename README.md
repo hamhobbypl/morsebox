@@ -8,7 +8,4 @@ W opcjach ustawień klucza pojawiła się możliwość korzystania z trybu Ultim
 
 
 
-
-
-
-Moduł TUTOR bazuje na kodzie Copyright (c) 2020, Bruce E. Hall W8BH udostępnionym na zasadzie Open Source MIT License
+Moduł TUTOR bazuje na kodzie Copyright (c) 2020, Bruce E. Hall W8BH udostępnionym na zasadzie Open Source MIT License.
