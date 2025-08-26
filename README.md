@@ -2,7 +2,7 @@ Wersja 6.07
 
 https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_07.bin
 
-*******************************************************
+
 Zmiany:
 
 1. Sortowanie wyświetlania plików z karty SD
@@ -14,7 +14,6 @@ Zmiany:
 Wersja 6.06
 https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_06.bin
 
-*******************************************************
 Zmiany:
 
 1. Dodano Czat umożliający komunikację pomiędzy urządzeniami z opgrogramowaniem MorseBOX - film z działania czat - https://youtu.be/DHyJ-UOmI7o?si=OxFVMdOVVQe5Ljb5
