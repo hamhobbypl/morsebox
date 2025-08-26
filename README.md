@@ -1,4 +1,17 @@
-Wersja 6.0.6
+Wersja 6.07
+
+https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_07.bin
+
+*******************************************************
+Zmiany:
+
+1. Sortowanie wyświetlania plików z karty SD
+
+
+*******************************************************
+
+
+Wersja 6.06
 https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_06.bin
 
 *******************************************************
