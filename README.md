@@ -12,6 +12,8 @@ Zmiany:
 
 
 Wersja 6.06
+
+
 https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_06.bin
 
 Zmiany:
