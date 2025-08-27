@@ -13,3 +13,7 @@ ConfigurationFilesSD – sample configuration files for MorseBOX on the SD card
 TrainingFilesSD – sample training files for MorseBOX on the SD card
 
 Firmware – firmware files for MorseBOX
+
+WIKI - https://github.com/hamhobbypl/morsebox/wiki
+
+Firmware change log https://github.com/hamhobbypl/morsebox/blob/main/Firmware/README.md
