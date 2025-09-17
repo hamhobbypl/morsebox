@@ -1,16 +1,16 @@
 PL
 
-ConfigurationFiles - przykładowe pliki konfiguracyjne MorseBOX na kartę SD
+Configuration - przykładowe pliki konfiguracyjne MorseBOX na kartę SD
 
-TrainingFiles - przykładowe pliki treningowe MorseBOX na kartę SD
+Training - przykładowe pliki treningowe MorseBOX na kartę SD
 
 Firmware - pliki firmware do MorseBOX 
 
 ENG
 
-ConfigurationFiles – sample configuration files for MorseBOX on the SD card
+Configuration – sample configuration files for MorseBOX on the SD card
 
-TrainingFiles – sample training files for MorseBOX on the SD card
+Training – sample training files for MorseBOX on the SD card
 
 Firmware – firmware files for MorseBOX
 
