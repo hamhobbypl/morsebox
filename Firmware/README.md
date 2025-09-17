@@ -1,6 +1,6 @@
 Wersja 6.08
 
-https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_08.bin
+[https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_08.bin](https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_6_08.bin)
 
 
 Zmiany:
