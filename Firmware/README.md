@@ -1,3 +1,19 @@
+Wersja 6.08
+
+https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_08.bin
+
+
+Zmiany:
+
+1. Konfiguracja "Speed" równolegle w Tutor
+2. Możliwość wyłączenia dźwięków wyniku próby w ćwiczeniach i testach "MH Sound" w menu config TUTORA. 
+3. Dodano ćwiczeni w którym należy liczyć ilość słów i weryfikować swoją skuteczność nie koniecznie rozumiejąc treść słów.
+(Receive/CountWrd) inspiracja Ryszard M0RPA
+4. Usunięty BUG nieprawidłowych spacji z Chat.
+
+
+
+*******************************************************
 Wersja 6.07
 
 https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_07.bin
