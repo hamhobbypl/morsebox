@@ -9,7 +9,7 @@ Zmiany:
 2. Możliwość wyłączenia dźwięków wyniku próby w ćwiczeniach i testach "MH Sound" w menu config TUTORA. 
 3. Dodano ćwiczenie w którym należy liczyć ilość słów i weryfikować swoją skuteczność nie koniecznie rozumiejąc treść słów.
 (Receive/CountWrd) inspiracja Ryszard M0RPA
-4. Usunięty BUG nieprawidłowych spacji z Chat.
+4. Usunięty BUG nieprawidłowych spacji w Chat.
 
 
 
