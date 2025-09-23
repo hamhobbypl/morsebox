@@ -1,3 +1,13 @@
+Wersja 6.09
+
+[https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_09.bin](https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_6_09.bin)
+
+Zmiany:
+
+1. Dodano możliwość przestawiania time out w ćwiczeniu receive/flashcrd - inspiracja Ryszard M0RPA.
+2. Dodano ćwiczenie Morse Machine inspirowane lcwo.net.
+3. Usunięty BUG lagów enkodera w KEYER.
+
 Wersja 6.08
 
 [https://github.com/hamhobbypl/morsebox/blob/main/firmware_6_08.bin](https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_6_08.bin)
