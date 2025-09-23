@@ -4,8 +4,8 @@ Wersja 6.09
 
 Zmiany:
 
-1. Dodano możliwość przestawiania time out w ćwiczeniu receive/flashcrd - inspiracja Ryszard M0RPA.
-2. Dodano ćwiczenie Morse Machine inspirowane lcwo.net.
+1. Dodano możliwość przestawiania time out w ćwiczeniu Receive/Flashcrd - inspiracja Ryszard M0RPA.
+2. Dodano ćwiczenie Morse Machine Send/MorseMach inspirowane lcwo.net. Po uzyskanym wyniku można utworzyć sobie po analizie plik na kartę SD ze słabymi punktami i ćwiczyć np. w Head Copy.
 3. Usunięty BUG lagów enkodera w KEYER przy zmianie WPM.
 
 *******************************************************
