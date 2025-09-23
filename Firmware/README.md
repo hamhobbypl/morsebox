@@ -6,7 +6,9 @@ Zmiany:
 
 1. Dodano możliwość przestawiania time out w ćwiczeniu receive/flashcrd - inspiracja Ryszard M0RPA.
 2. Dodano ćwiczenie Morse Machine inspirowane lcwo.net.
-3. Usunięty BUG lagów enkodera w KEYER.
+3. Usunięty BUG lagów enkodera w KEYER przy zmianie WPM.
+
+*******************************************************
 
 Wersja 6.08
 
