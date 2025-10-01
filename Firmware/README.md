@@ -12,7 +12,8 @@ Zmiany:
 7. Dodano ćiwczenie Receive/DitIfRec - analogia Morse Machine, ale po rozpoznaniu litery/cyfry naciskamy DIT zamiast kopiowania znaku.
 8. Zmiana logiki ustawiania CALLSIGN, pojawia się też w Menu Głównym.
 9. Nie rozpoznaje czy jest HW Keyer, wszystkim odpalą się wszystkie moduły nawet jeśli nie mają sprzętowo keyera.
-10. Inne kosmetyczne zmiany w UI.
+10. Zwiększony limit plików do 50.
+11. Inne kosmetyczne zmiany w UI.
 
 *******************************************************
 
