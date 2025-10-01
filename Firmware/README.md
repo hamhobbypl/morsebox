@@ -7,11 +7,12 @@ Zmiany:
 2. Dodana aktywna ikona karty SD pokazująca status i dająca możliwość reinicjalizacji karty oraz sprawdzenia listy plików.
 3. Usunięte wsparcie dla METABASE!!!
 4. Zmiana w logice ustawianie prędkości WPM i FWPM w keyer. Teraz po długim naciśnięciu enkodera.
-5. Sieć wifi na podstawie pliku ustawia się w SETUP/WIFI i ona zostaje zapamiętana jeśli uda się połączyć. Jeśli trzeba zmienić znowu należy użyć SETUP/WIFI.
-6. Dodano ćiwczenie Receive/DitIfRec - Analogia Morse Machine, ale po rozpoznaniu litery/cyfry naciskamy DIT zamiast kopiowania znaku.
-7. Zmiana logiki ustawiania CALLSIGN, pojawia się też w Menu Głównym.
-8. Nie rozpoznaje czy jest HW Keyer, wszystkim odpalą się wszystkie moduły nawet jeśli nie mają sprzętowo keyera.
-9. Inne kosmetyczne zmiany w UI.
+5. Zwiększona ilość MAKR w keyerze do 32 i dodane przewijanie.
+6. Sieć wifi na podstawie pliku ustawia się w SETUP/WIFI i ona zostaje zapamiętana jeśli uda się połączyć. Jeśli trzeba zmienić znowu należy użyć SETUP/WIFI.
+7. Dodano ćiwczenie Receive/DitIfRec - analogia Morse Machine, ale po rozpoznaniu litery/cyfry naciskamy DIT zamiast kopiowania znaku.
+8. Zmiana logiki ustawiania CALLSIGN, pojawia się też w Menu Głównym.
+9. Nie rozpoznaje czy jest HW Keyer, wszystkim odpalą się wszystkie moduły nawet jeśli nie mają sprzętowo keyera.
+10. Inne kosmetyczne zmiany w UI.
 
 *******************************************************
 
