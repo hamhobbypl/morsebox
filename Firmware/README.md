@@ -5,7 +5,7 @@ Wersja 7.01
 Zmiany:
 1. Możliwość wyboru odstępu wo odbiorze pomiędzy znakami i słowamu w trybie FARNSWORTH i BEATSWORTH(z zachowaniem rytmu kodu morsa).
 2. Powitalne R nie jest wysyłane na KEYER.
-3. Znak ~ użyty w makro keyera naciska klucz i trzyma aż do naciśniecia gałki enkodera. Pomoc w strojeniu dla TRX nie posiadających funkcji TUNE.
+3. Znak ~ użyty w makro keyera naciska klucz i trzyma, aż do naciśniecia gałki enkodera. Jest to pomoc w strojeniu dla TRX nie posiadających funkcji TUNE.
 Możemy sobie utworzyć np. ~TUNE i mamy dodatkową funkcję zapisaną jako macro KEYERA.
 
 
