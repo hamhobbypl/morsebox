@@ -3,9 +3,9 @@ Wersja 7.01
 [https://github.com/hamhobbypl/morsebox/blob/main/firmware_7_01.bin](https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_7_01.bin)
 
 Zmiany:
-1. Możliwość wyboru odstępu wo odbiorze pomiędzy znakami i słowamu w trybie FARNSWORTH i BEATSWORTH(z zachowaniem rytmu kodu morsa).
+1. Możliwość wyboru odstępu w odbiorze pomiędzy znakami i słowami w trybie FARNSWORTH i BEATSWORTH(z zachowaniem rytmu kodu morsa).
 2. Powitalne R nie jest wysyłane na KEYER.
-3. Znak ~ użyty w makro keyera naciska klucz i trzyma, aż do naciśniecia gałki enkodera. Jest to pomoc w strojeniu dla TRX nie posiadających funkcji TUNE.
+3. Znak ~ użyty w makro keyera naciska klucz i trzyma, aż do naciśnięcia gałki enkodera. Jest to pomoc w strojeniu dla TRX nie posiadających funkcji TUNE.
 Możemy sobie utworzyć np. ~TUNE i mamy dodatkową funkcję zapisaną jako macro KEYERA.
 
 
