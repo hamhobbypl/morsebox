@@ -11,7 +11,9 @@ Zmiany:
 
 
 Logika działania LOGa w Keyer:
+
 a) żeby uruchomić loga pobieramy w SETUP czas z serwera NTP "Time". Wcześniej musiy mieć skonfigurowane WIFI w SETUP/WIFI.
+
 b) w Logger dajemy ON. (musimy mieć na karcie SD katalog "logs", bo tam zbierane są logi).  Jeśli wszystko pójdzie OK -  utworzy się plik zgodny z bieżącym czasem i pokaże się jego nazwa.
 
 c) wchodzimy do KEYER i jeśli jest logowanie to w belce mamy czerwony napis LOG.
@@ -27,6 +29,8 @@ widzimy od końca loga i możemy przewijać ostatnie 256 linii.
 loga możemy weryfikować w dowolnej chwili.
 
 f) jeśli chcemy nowy plik loga w danej sesji wchodzimy w setup i dajemy Logger OFF i potem znowu ON. Utworzy się nowy plik. 
+
+
 
 
 *******************************************************
