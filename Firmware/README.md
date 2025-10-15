@@ -4,7 +4,7 @@ Wersja 7.02
 
 Zmiany:
 1. Poprawiony błąd w logice ustawiania BW.
-2. Oznaczane są ćwiczenia copy i wyłączana przerwa po ostatnim znaku niezależnie od FW i BW. Nie ma zjawiska blokowania.
+2. Oznaczane są ćwiczenia copy i wyłączana przerwa po ostatnim znaku niezależnie od FW i BW. Nie ma zjawiska "blokowania".
 3. Dodano możliwość przełączenia na białe fonty w ćwiczeniach jest bardziej kontrastowo i czytelniej dla niektórych.
 4. Skopiowano logikę ładowania karty z Config/Files na taką samą do Receive/SD Card.
 5. Dodałem LOG dla KEYER.
