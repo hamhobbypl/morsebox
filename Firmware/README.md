@@ -1,3 +1,28 @@
+Wersja 7.02
+
+[https://github.com/hamhobbypl/morsebox/blob/main/firmware_7_02.bin](https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_7_02.bin)
+
+Zmiany:
+1. Poprawiony błąd w logice ustawiania BW.
+2. Oznaczane są ćwiczenia copy i wyłączana przerwa po ostatnim znaku niezależnie od FW i BW. Nie ma zjawiska blokowania.
+3. Dodano możliwość przełączenia na białe fonty w ćwiczeniach jest bardziej kontrastowo i czytelniej dla niektórych.
+4. Skopiowano logikę ładowania karty z Config/Files na taką samą do Receive/SD Card.
+5. Dodałem LOG dla KEYER.
+a) żeby uruchomić loga pobieramy w SETUP czas z serwera NTP "Time". Wcześniej musiy mieć skonfigurowane WIFI w SETUP/WIFI.
+b) w Logger dajemy ON. (musimy mieć na karcie SD katalog "logs", bo tam zbierane są logi).  Jeśli wszystko pójdzie OK -  utworzy się plik zgodny z bieżącym czasem i pokaże się jego nazwa.
+c) wchodzimy do KEYER i jeśli jest logowanie to w belce mamy czerwony napis LOG.
+d) warunki zapisu:
+w keyer jeśli coś nadaliśmy i nie nadajemy przez 5s następuje zapis
+jeśli wychodzimy z keyera również zapisuje to co nadaliśmy od ostatniego zapisu
+w makro zapisuje po skończonym makro lub po wyjściu w trakcie.
+e) podgląd loga - kursor na KEYER i long press >=1s
+widzimy od końca loga i możemy przewijać ostatnie 256 linii.
+loga możemy weryfikować w dowolnej chwili.
+f) jeśli chcemy nowy plik loga w danej sesji wchodzimy w setup i dajemy Logger OFF i potem znowu ON. Utworzy się nowy plik. 
+
+
+*******************************************************
+
 Wersja 7.01
 
 [https://github.com/hamhobbypl/morsebox/blob/main/firmware_7_01.bin](https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_7_01.bin)
