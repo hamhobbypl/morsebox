@@ -9,6 +9,8 @@ Zmiany:
 4. Skopiowano logikę ładowania karty z Config/Files na taką samą do Receive/SD Card.
 5. Dodałem LOG dla KEYER.
 
+
+Logika działania LOGa w Keyer:
 a) żeby uruchomić loga pobieramy w SETUP czas z serwera NTP "Time". Wcześniej musiy mieć skonfigurowane WIFI w SETUP/WIFI.
 b) w Logger dajemy ON. (musimy mieć na karcie SD katalog "logs", bo tam zbierane są logi).  Jeśli wszystko pójdzie OK -  utworzy się plik zgodny z bieżącym czasem i pokaże się jego nazwa.
 
