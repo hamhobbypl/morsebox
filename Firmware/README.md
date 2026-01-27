@@ -1,3 +1,24 @@
+Wersja 8.0
+
+Zmiany:
+1. Dodano opcję szybkiej zmiany WPM, FWPM/BWPM, TX space, VOLUME w ćwiczeniach nadawania, odbioru i Practice.
+Wywołanie - długie naciśnięcie enkodera.
+ W KEYER zostaje po staremu, bo tak jest szybciej w przypadku pracy.
+2. Zaimplementowano dwuznaki AR SK KN AS BK w Practice i KEYER + KEYER LOG
+3. W opcji „logger” widać status i nazwę bieżącego pliku jeśli jest włączone logowanie. Można zatrzymać i wznowić logowanie do nowego pliku.
+Przejrzyście i zrozumiale...
+4. Pliki konfiguracyjne mogą być na ścieżce „/” lub „/configs/”. Można sobie dzięki temu uporządkować kartę.
+5. Konfiguracja dla serwera chat może być zamieszczona w pliku chat.txt - 1 linia adres serwera MQTT, 2 linia hasło do serwera MQTT. Użytkownik to ID urządzenia.
+Można uruchomić swój serwer chat (broker MQTT). Jeśli jest plik chat.txt  nie będzie się łączył do mojej maszyny tylko do tej wskazanej. Nie zadziałają też sprawdzenia aktualnej ilości użytkowników na kanale, bo to po API jest zrobione.
+6. Poprawiono generowanie losowe CALLSING w ćwiczeniach odbioru i kopiowania, wcześniej były takie za bardzo „Amerykańskie”
+7. Dodano ustawianie zegara ręczne jak nie ma wifi, wtedy też można logować KEYER.
+Do tej pory trzeba było się synchronizować z NTP, a teraz pyta nas czy chcemy manualnie podać jak nie ma czasu z NTP. 
+8. Dodano ćwiczenia Warmup, Exercise, Drill zgodnie z dokumentem https://cwops.org/wp-content/uploads/2022/03/Everyday-Send-Code-WR7Q-ver.-7.pdf
+9. Dodano ćwiczenie Pyramid.
+10. Dodano ćwiczenie DrillWord - domyślne słowo BENSBESTBENTWIRE, jeśli załadujemy plik z karty wtedy pierwsze słowo jest z pliku z karty.
+
+*******************************************************
+
 Wersja 7.02
 
 [https://github.com/hamhobbypl/morsebox/blob/main/firmware_7_02.bin](https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_7_02.bin)
