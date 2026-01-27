@@ -6,7 +6,7 @@ Training - przykładowe pliki treningowe MorseBOX na kartę SD
 
 Firmware - pliki firmware do MorseBOX 
 
-SDCard - structura karty
+SDCard - struktura karty
 
 ENG
 
