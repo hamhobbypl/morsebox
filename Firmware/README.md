@@ -1,4 +1,5 @@
 Wersja 8.0
+https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_00.bin
 
 Zmiany:
 1. Dodano opcję szybkiej zmiany WPM, FWPM/BWPM, TX space, VOLUME w ćwiczeniach nadawania, odbioru i Practice.
