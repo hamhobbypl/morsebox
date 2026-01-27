@@ -6,6 +6,8 @@ Training - przykładowe pliki treningowe MorseBOX na kartę SD
 
 Firmware - pliki firmware do MorseBOX 
 
+SDCard - structura karty
+
 ENG
 
 Configuration – sample configuration files for MorseBOX on the SD card
@@ -13,6 +15,8 @@ Configuration – sample configuration files for MorseBOX on the SD card
 Training – sample training files for MorseBOX on the SD card
 
 Firmware – firmware files for MorseBOX
+
+SDCard -  directory tree
 
 WIKI - https://github.com/hamhobbypl/morsebox/wiki
 
