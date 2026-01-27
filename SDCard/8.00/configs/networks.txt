@@ -1,0 +1,7 @@
+#ssid password
+KANGUR PRINTER2011
+GUEST ababababab
+GUEST2 ababababab
+APPRO ababababab
+Zyxel_1361 7*78XN7d37
+# test komentarza
