@@ -2,7 +2,7 @@ Wersja 8.0
 https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_00.bin
 
 Zmiany:
-1. Dodano opcję szybkiej zmiany WPM, FWPM/BWPM, TX space, VOLUME w ćwiczeniach nadawania, odbioru i Practice.
+1. Dodano opcję szybkiej zmiany WPM, FWPM/BWPM, TX space w ćwiczeniach nadawania, odbioru i Practice.
 Wywołanie - długie naciśnięcie enkodera.
  W KEYER zostaje po staremu, bo tak jest szybciej w przypadku pracy.
 2. Zaimplementowano dwuznaki AR SK KN AS BK w Practice i KEYER + KEYER LOG
