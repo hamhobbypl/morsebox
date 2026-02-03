@@ -1,3 +1,14 @@
+Wersja 8.2
+
+Zmiany:
+
+1. Możliwość ustawiania WPM RX(MIN MAX), FWPM/BWPM RX(MIN MAX), TONE RX(MIN MAX) na wejściu ćwiczeń Head Copy i Copy Callisign. Wartość jest losowana pomiędzy MIN MAX. Żeby zachować realizm zmienia się dopiero w następnej próbie (AGN lub błędna próba nie zmienia wartości)
+
+2. Śledzenie w ćwiczeniach DAILY.
+
+3. Zapis TOP score jeśli w DrillWord - domyślne słowo to BENSBESTBENTWIRE.
+
+
 Wersja 8.0
 https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_00.bin
 
