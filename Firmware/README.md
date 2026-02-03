@@ -1,4 +1,4 @@
-Wersja 8.2
+Wersja 8.2 https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_2.bin
 
 Zmiany:
 
