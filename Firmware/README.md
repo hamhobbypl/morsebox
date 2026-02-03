@@ -8,6 +8,7 @@ Zmiany:
 
 3. Zapis TOP score jeśli w DrillWord - domyślne słowo to BENSBESTBENTWIRE.
 
+*******************************************************
 
 Wersja 8.0
 https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_00.bin
