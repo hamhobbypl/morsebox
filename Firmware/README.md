@@ -2,6 +2,8 @@ Wersja 8.4 https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_
 
 Zmiany:
 Dodałano moduł OVLEARN w głównym menu. Żeby z niego skorzystać trzeba wgrać na kartę nowy katalog "overlearn" z plikami treningowymi na kartę SD. 
+Pozycje [1]-[32] to ćwiczenia przygotowane przez LICW.
+
 20 pozycji do wykorzystanie na własne pliki:
 
 {"[33] User File 1", "/overlearn/UserFile_1.txt"},
@@ -44,7 +46,6 @@ Dodałano moduł OVLEARN w głównym menu. Żeby z niego skorzystać trzeba wgra
 
 {"[52] User File 20", "/overlearn/UserFile_20.txt"}
 
-Pozycje 1-32 to ćwiczenia przygotowane przez LICW
 
 *******************************************************
 
