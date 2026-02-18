@@ -1,0 +1,105 @@
+@A A A
+AS IS[   ]AS IS[   ]AS IS
+AM OK[   ]AM OK[   ]AM OK
+ADD IT[   ]ADD IT[   ]ADD IT
+@B B B
+BY ME[   ]BY ME[   ]BY ME
+BE ON[   ]BE ON[   ]BE ON
+BE OK[   ]BE OK[   ]BE OK
+@C C C
+CAP ON[   ]CAP ON[   ]CAP ON
+CUT UP[   ]CUT UP[   ]CUT UP
+CAN DO[   ]CAN DO[   ]CAN DO
+@D D D
+DO OK[   ]DO OK[   ]DO OK
+DO IT[   ]DO IT[   ]DO IT
+DID OK[   ]DID OK[   ]DID OK
+@E E E
+EAT IT[   ]EAT IT[   ]EAT IT
+END ON[   ]END ON[   ]END ON
+EVE OF[   ]EVE OF[   ]EVE OF
+@F F F
+FIT IN[   ]FIT IN[   ]FIT IN
+FIX IT[   ]FIX IT[   ]FIX IT
+FAX IT[   ]FAX IT[   ]FAX IT
+@G G G
+GO TO[   ]GO TO[   ]GO TO
+GET ON[   ]GET ON[   ]GET ON
+GOT IT[   ]GOT IT[   ]GOT IT
+@H H H
+HE IS[   ]HE IS[   ]HE IS
+HIS ID[   ]HIS ID[   ]HIS ID
+HER OX[   ]HER OX[   ]HER OX
+@I I I
+IS TOO[   ]IS TOO[   ]IS TOO
+IF NOT[   ]IF NOT[   ]IF NOT
+IT WAS[   ]IT WAS[   ]IT WAS
+@J J J
+JAR OF[   ]JAR OF[   ]JAR OF
+JET UP[   ]JET UP[   ]JET UP
+JOG TO[   ]JOG TO[   ]JOG TO
+@K K K
+KIT OF[   ]KIT OF[   ]KIT OF
+KEG ON[   ]KEG ON[   ]KEG ON
+KEY IS[   ]KEY IS[   ]KEY IS
+@L L L
+LET IT[   ]LET IT[   ]LET IT
+LEG UP[   ]LEG UP[   ]LEG UP
+LUG NUT[   ]LUG NUT[   ]LUG NUT
+@M M M
+MY MOP[   ]MY MOP[   ]MY MOP
+MAD MAX[   ]MAD MAX[   ]MAD MAX
+MY PA[   ]MY PA[   ]MY PA
+@N N N
+NEW AX[   ]NEW AX[   ]NEW AX
+NOT ME[   ]NOT ME[   ]NOT ME
+NO GO[   ]NO GO[   ]NO GO
+@O O O
+ON IT[   ]ON IT[   ]ON IT
+OH NO[   ]OH NO[   ]OH NO
+OH MY[   ]OH MY[   ]OH MY
+@P P P
+PIN IT[   ]PIN IT[   ]PIN IT
+POP IN[   ]POP IN[   ]POP IN
+PUT UP[   ]PUT UP[   ]PUT UP
+@Q Q Q
+QUIT IT[   ]QUIT IT[   ]QUIT IT
+QUIZ ME[   ]QUIZ ME[   ]QUIZ ME
+QUIT ON[   ]QUIT ON[   ]QUIT ON
+@R R R
+RIG IT[   ]RIG IT[   ]RIG IT
+RUN TO[   ]RUN TO[   ]RUN TO
+ROB ME[   ]ROB ME[   ]ROB ME
+@S S S
+SHE IS[   ]SHE IS[   ]SHE IS
+SPA OK[   ]SPA OK[   ]SPA OK
+SET UP[   ]SET UP[   ]SET UP
+@T T T
+TO GO[   ]TO GO[   ]TO GO
+TAP IT[   ]TAP IT[   ]TAP IT
+TIP ME[   ]TIP ME[   ]TIP ME
+@U U U
+US TOO[   ]US TOO[   ]US TOO
+USE IT[   ]USE IT[   ]USE IT
+UP TO[   ]UP TO[   ]UP TO
+@V V V
+VAT OF[   ]VAT OF[   ]VAT OF
+VET ME[   ]VET ME[   ]VET ME
+VOW TO[   ]VOW TO[   ]VOW TO
+@W W W
+WE DO[   ]WE DO[   ]WE DO
+WON IT[   ]WON IT[   ]WON IT
+WHY ME[   ]WHY ME[   ]WHY ME
+@X X X
+XYL IS[   ]XYL IS[   ]XYL IS
+XRAY ME[   ]XRAY ME[   ]XRAY ME
+XYL OK[   ]XYL OK[   ]XYL OK
+@Y Y Y
+YOU TOO[   ]YOU TOO[   ]YOU TOO
+YES IF[   ]YES IF[   ]YES IF
+YOU GO[   ]YOU GO[   ]YOU GO
+@Z Z Z
+ZIP IT[   ]ZIP IT[   ]ZIP IT
+ZAP ME[   ]ZAP ME[   ]ZAP ME
+ZOO OX[   ]ZOO OX[   ]ZOO OX
+
