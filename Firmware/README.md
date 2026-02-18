@@ -3,25 +3,45 @@ Wersja 8.4 https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_
 Zmiany:
 Dodałano moduł OVLEARN w głównym menu. Żeby z niego skorzystać trzeba wgrać na kartę nowy katalog "overlearn" z plikami treningowymi na kartę SD. 
 20 pozycji do wykorzystanie na własne pliki:
+
 {"[33] User File 1", "/overlearn/UserFile_1.txt"},
+
 {"[34] User File 2", "/overlearn/UserFile_2.txt"},
+
 {"[35] User File 3", "/overlearn/UserFile_3.txt"},
+
 {"[36] User File 4", "/overlearn/UserFile_4.txt"},
+
 {"[37] User File 5", "/overlearn/UserFile_5.txt"},
+
 {"[38] User File 6", "/overlearn/UserFile_6.txt"},
+
 {"[39] User File 7", "/overlearn/UserFile_7.txt"},
+
 {"[40] User File 8", "/overlearn/UserFile_8.txt"},
+
 {"[41] User File 9", "/overlearn/UserFile_9.txt"},
+
 {"[42] User File 10", "/overlearn/UserFile_10.txt"},
+
 {"[43] User File 11", "/overlearn/UserFile_11.txt"},
+
 {"[44] User File 12", "/overlearn/UserFile_12.txt"},
+
 {"[45] User File 13", "/overlearn/UserFile_13.txt"},
+
 {"[46] User File 14", "/overlearn/UserFile_14.txt"},
+
 {"[47] User File 15", "/overlearn/UserFile_15.txt"},
+
 {"[48] User File 16", "/overlearn/UserFile_16.txt"},
+
 {"[49] User File 17", "/overlearn/UserFile_17.txt"},
+
 {"[50] User File 18", "/overlearn/UserFile_18.txt"},
+
 {"[51] User File 19", "/overlearn/UserFile_19.txt"},
+
 {"[52] User File 20", "/overlearn/UserFile_20.txt"}
 
 Pozycje 1-32 to ćwiczenia przygotowane przez LICW
