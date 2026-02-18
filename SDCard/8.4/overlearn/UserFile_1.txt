@@ -1,266 +1,200 @@
-[
-  [
-    "A A A",
-    [
-      "ABY[  ]ABY[  ]ABY",
-      "ACH[  ]ACH[  ]ACH",
-      "AHA[  ]AHA[  ]AHA",
-      "AKT[  ]AKT[  ]AKT",
-      "ALE[  ]ALE[  ]ALE",
-      "ANI[  ]ANI[  ]ANI",
-      "AZ[  ]AZ[  ]AZ"
-    ]
-  ],
-  [
-    "B B B",
-    [
-      "BA[  ]BA[  ]BA",
-      "BAC[  ]BAC[  ]BAC",
-      "BAR[  ]BAR[  ]BAR",
-      "BEZ[  ]BEZ[  ]BEZ",
-      "BIC[  ]BIC[  ]BIC",
-      "BO[  ]BO[  ]BO",
-      "BOB[  ]BOB[  ]BOB",
-      "BOG[  ]BOG[  ]BOG",
-      "BOK[  ]BOK[  ]BOK",
-      "BOL[  ]BOL[  ]BOL",
-      "BUT[  ]BUT[  ]BUT",
-      "BY[  ]BY[  ]BY",
-      "BYC[  ]BYC[  ]BYC",
-      "BYK[  ]BYK[  ]BYK"
-    ]
-  ],
-  [
-    "C C C",
-    [
-      "CEL[  ]CEL[  ]CEL",
-      "CI[  ]CI[  ]CI",
-      "CO[  ]CO[  ]CO",
-      "COS[  ]COS[  ]COS",
-      "COZ[  ]COZ[  ]COZ",
-      "CZY[  ]CZY[  ]CZY"
-    ]
-  ],
-  [
-    "D D D",
-    [
-      "DAC[  ]DAC[  ]DAC",
-      "DAR[  ]DAR[  ]DAR",
-      "DLA[  ]DLA[  ]DLA",
-      "DNO[  ]DNO[  ]DNO",
-      "DO[  ]DO[  ]DO",
-      "DOL[  ]DOL[  ]DOL",
-      "DOM[  ]DOM[  ]DOM",
-      "DWA[  ]DWA[  ]DWA",
-      "DYM[  ]DYM[  ]DYM"
-    ]
-  ],
-  [
-    "E E E",
-    [
-      "EGO[  ]EGO[  ]EGO"
-    ]
-  ],
-  [
-    "G G G",
-    [
-      "GAZ[  ]GAZ[  ]GAZ",
-      "GDY[  ]GDY[  ]GDY",
-      "GES[  ]GES[  ]GES",
-      "GO[  ]GO[  ]GO",
-      "GRA[  ]GRA[  ]GRA"
-    ]
-  ],
-  [
-    "H H H",
-    [
-      "HEJ[  ]HEJ[  ]HEJ"
-    ]
-  ],
-  [
-    "I I I",
-    [
-      "ICH[  ]ICH[  ]ICH",
-      "ILE[  ]ILE[  ]ILE",
-      "IM[  ]IM[  ]IM",
-      "ISC[  ]ISC[  ]ISC",
-      "ITP[  ]ITP[  ]ITP",
-      "IZ[  ]IZ[  ]IZ"
-    ]
-  ],
-  [
-    "J J J",
-    [
-      "JA[  ]JA[  ]JA",
-      "JAK[  ]JAK[  ]JAK",
-      "JAN[  ]JAN[  ]JAN",
-      "JEJ[  ]JEJ[  ]JEJ",
-      "JUZ[  ]JUZ[  ]JUZ"
-    ]
-  ],
-  [
-    "K K K",
-    [
-      "KAT[  ]KAT[  ]KAT",
-      "KIJ[  ]KIJ[  ]KIJ",
-      "KON[  ]KON[  ]KON",
-      "KOT[  ]KOT[  ]KOT",
-      "KTO[  ]KTO[  ]KTO",
-      "KU[  ]KU[  ]KU"
-    ]
-  ],
-  [
-    "L L L",
-    [
-      "LAS[  ]LAS[  ]LAS",
-      "LEB[  ]LEB[  ]LEB",
-      "LEK[  ]LEK[  ]LEK",
-      "LEW[  ]LEW[  ]LEW",
-      "LIS[  ]LIS[  ]LIS",
-      "LOD[  ]LOD[  ]LOD",
-      "LOS[  ]LOS[  ]LOS",
-      "LOT[  ]LOT[  ]LOT",
-      "LUB[  ]LUB[  ]LUB",
-      "LUD[  ]LUD[  ]LUD",
-      "LUK[  ]LUK[  ]LUK"
-    ]
-  ],
-  [
-    "M M M",
-    [
-      "MA[  ]MA[  ]MA",
-      "MAJ[  ]MAJ[  ]MAJ",
-      "MAZ[  ]MAZ[  ]MAZ",
-      "MI[  ]MI[  ]MI",
-      "MOC[  ]MOC[  ]MOC",
-      "MOJ[  ]MOJ[  ]MOJ",
-      "MUR[  ]MUR[  ]MUR",
-      "MY[  ]MY[  ]MY"
-    ]
-  ],
-  [
-    "N N N",
-    [
-      "NA[  ]NA[  ]NA",
-      "NAD[  ]NAD[  ]NAD",
-      "NAJ[  ]NAJ[  ]NAJ",
-      "NI[  ]NI[  ]NI",
-      "NIC[  ]NIC[  ]NIC",
-      "NIE[  ]NIE[  ]NIE",
-      "NIM[  ]NIM[  ]NIM",
-      "NIZ[  ]NIZ[  ]NIZ",
-      "NO[  ]NO[  ]NO",
-      "NOC[  ]NOC[  ]NOC",
-      "NOS[  ]NOS[  ]NOS",
-      "NOZ[  ]NOZ[  ]NOZ",
-      "NP[  ]NP[  ]NP"
-    ]
-  ],
-  [
-    "O O O",
-    [
-      "OBA[  ]OBA[  ]OBA",
-      "OCH[  ]OCH[  ]OCH",
-      "OD[  ]OD[  ]OD",
-      "OKO[  ]OKO[  ]OKO",
-      "ON[  ]ON[  ]ON",
-      "ONA[  ]ONA[  ]ONA",
-      "ONE[  ]ONE[  ]ONE",
-      "ONI[  ]ONI[  ]ONI",
-      "ONO[  ]ONO[  ]ONO",
-      "OS[  ]OS[  ]OS",
-      "OTO[  ]OTO[  ]OTO",
-      "OW[  ]OW[  ]OW",
-      "OWO[  ]OWO[  ]OWO"
-    ]
-  ],
-  [
-    "P P P",
-    [
-      "PAN[  ]PAN[  ]PAN",
-      "PAS[  ]PAS[  ]PAS",
-      "PAT[  ]PAT[  ]PAT",
-      "PIC[  ]PIC[  ]PIC",
-      "PO[  ]PO[  ]PO",
-      "POD[  ]POD[  ]POD",
-      "POL[  ]POL[  ]POL"
-    ]
-  ],
-  [
-    "R R R",
-    [
-      "RAD[  ]RAD[  ]RAD",
-      "RAK[  ]RAK[  ]RAK",
-      "RAZ[  ]RAZ[  ]RAZ",
-      "ROG[  ]ROG[  ]ROG",
-      "ROK[  ]ROK[  ]ROK",
-      "RYZ[  ]RYZ[  ]RYZ"
-    ]
-  ],
-  [
-    "S S S",
-    [
-      "SA[  ]SA[  ]SA",
-      "SAD[  ]SAD[  ]SAD",
-      "SAM[  ]SAM[  ]SAM",
-      "SEN[  ]SEN[  ]SEN",
-      "SER[  ]SER[  ]SER",
-      "SIE[  ]SIE[  ]SIE",
-      "SOK[  ]SOK[  ]SOK",
-      "SOL[  ]SOL[  ]SOL",
-      "SOS[  ]SOS[  ]SOS",
-      "STO[  ]STO[  ]STO",
-      "SYN[  ]SYN[  ]SYN"
-    ]
-  ],
-  [
-    "T T T",
-    [
-      "TA[  ]TA[  ]TA",
-      "TAK[  ]TAK[  ]TAK",
-      "TAM[  ]TAM[  ]TAM",
-      "TE[  ]TE[  ]TE",
-      "TEN[  ]TEN[  ]TEN",
-      "TEZ[  ]TEZ[  ]TEZ",
-      "TO[  ]TO[  ]TO",
-      "TOM[  ]TOM[  ]TOM",
-      "TON[  ]TON[  ]TON",
-      "TOR[  ]TOR[  ]TOR",
-      "TU[  ]TU[  ]TU",
-      "TUZ[  ]TUZ[  ]TUZ",
-      "TY[  ]TY[  ]TY",
-      "TYL[  ]TYL[  ]TYL",
-      "TYP[  ]TYP[  ]TYP"
-    ]
-  ],
-  [
-    "U U U",
-    [
-      "USA[  ]USA[  ]USA"
-    ]
-  ],
-  [
-    "W W W",
-    [
-      "WAZ[  ]WAZ[  ]WAZ",
-      "WE[  ]WE[  ]WE",
-      "WOZ[  ]WOZ[  ]WOZ",
-      "WUJ[  ]WUJ[  ]WUJ",
-      "WY[  ]WY[  ]WY"
-    ]
-  ],
-  [
-    "Z Z Z",
-    [
-      "ZA[  ]ZA[  ]ZA",
-      "ZAB[  ]ZAB[  ]ZAB",
-      "ZAL[  ]ZAL[  ]ZAL",
-      "ZAS[  ]ZAS[  ]ZAS",
-      "ZE[  ]ZE[  ]ZE",
-      "ZLE[  ]ZLE[  ]ZLE",
-      "ZLY[  ]ZLY[  ]ZLY",
-      "ZYC[  ]ZYC[  ]ZYC",
-      "ZZA[  ]ZZA[  ]ZZA"
-    ]
-  ]
-]
+@A A A
+ABY[  ]ABY[  ]ABY
+ACH[  ]ACH[  ]ACH
+AHA[  ]AHA[  ]AHA
+AKT[  ]AKT[  ]AKT
+ALE[  ]ALE[  ]ALE
+ANI[  ]ANI[  ]ANI
+AZ[  ]AZ[  ]AZ
+
+@B B B
+BA[  ]BA[  ]BA
+BAC[  ]BAC[  ]BAC
+BAR[  ]BAR[  ]BAR
+BEZ[  ]BEZ[  ]BEZ
+BIC[  ]BIC[  ]BIC
+BO[  ]BO[  ]BO
+BOB[  ]BOB[  ]BOB
+BOG[  ]BOG[  ]BOG
+BOK[  ]BOK[  ]BOK
+BOL[  ]BOL[  ]BOL
+BUT[  ]BUT[  ]BUT
+BY[  ]BY[  ]BY
+BYC[  ]BYC[  ]BYC
+BYK[  ]BYK[  ]BYK
+
+@C C C
+CEL[  ]CEL[  ]CEL
+CI[  ]CI[  ]CI
+CO[  ]CO[  ]CO
+COS[  ]COS[  ]COS
+COZ[  ]COZ[  ]COZ
+CZY[  ]CZY[  ]CZY
+
+@D D D
+DAC[  ]DAC[  ]DAC
+DAR[  ]DAR[  ]DAR
+DLA[  ]DLA[  ]DLA
+DNO[  ]DNO[  ]DNO
+DO[  ]DO[  ]DO
+DOL[  ]DOL[  ]DOL
+DOM[  ]DOM[  ]DOM
+DWA[  ]DWA[  ]DWA
+DYM[  ]DYM[  ]DYM
+
+@E E E
+EGO[  ]EGO[  ]EGO
+
+@G G G
+GAZ[  ]GAZ[  ]GAZ
+GDY[  ]GDY[  ]GDY
+GES[  ]GES[  ]GES
+GO[  ]GO[  ]GO
+GRA[  ]GRA[  ]GRA
+
+@H H H
+HEJ[  ]HEJ[  ]HEJ
+
+@I I I
+ICH[  ]ICH[  ]ICH
+ILE[  ]ILE[  ]ILE
+IM[  ]IM[  ]IM
+ISC[  ]ISC[  ]ISC
+ITP[  ]ITP[  ]ITP
+IZ[  ]IZ[  ]IZ
+
+@J J J
+JA[  ]JA[  ]JA
+JAK[  ]JAK[  ]JAK
+JAN[  ]JAN[  ]JAN
+JEJ[  ]JEJ[  ]JEJ
+JUZ[  ]JUZ[  ]JUZ
+
+@K K K
+KAT[  ]KAT[  ]KAT
+KIJ[  ]KIJ[  ]KIJ
+KON[  ]KON[  ]KON
+KOT[  ]KOT[  ]KOT
+KTO[  ]KTO[  ]KTO
+KU[  ]KU[  ]KU
+
+@L L L
+LAS[  ]LAS[  ]LAS
+LEB[  ]LEB[  ]LEB
+LEK[  ]LEK[  ]LEK
+LEW[  ]LEW[  ]LEW
+LIS[  ]LIS[  ]LIS
+LOD[  ]LOD[  ]LOD
+LOS[  ]LOS[  ]LOS
+LOT[  ]LOT[  ]LOT
+LUB[  ]LUB[  ]LUB
+LUD[  ]LUD[  ]LUD
+LUK[  ]LUK[  ]LUK
+
+@M M M
+MA[  ]MA[  ]MA
+MAJ[  ]MAJ[  ]MAJ
+MAZ[  ]MAZ[  ]MAZ
+MI[  ]MI[  ]MI
+MOC[  ]MOC[  ]MOC
+MOJ[  ]MOJ[  ]MOJ
+MUR[  ]MUR[  ]MUR
+MY[  ]MY[  ]MY
+
+@N N N
+NA[  ]NA[  ]NA
+NAD[  ]NAD[  ]NAD
+NAJ[  ]NAJ[  ]NAJ
+NI[  ]NI[  ]NI
+NIC[  ]NIC[  ]NIC
+NIE[  ]NIE[  ]NIE
+NIM[  ]NIM[  ]NIM
+NIZ[  ]NIZ[  ]NIZ
+NO[  ]NO[  ]NO
+NOC[  ]NOC[  ]NOC
+NOS[  ]NOS[  ]NOS
+NOZ[  ]NOZ[  ]NOZ
+NP[  ]NP[  ]NP
+
+@O O O
+OBA[  ]OBA[  ]OBA
+OCH[  ]OCH[  ]OCH
+OD[  ]OD[  ]OD
+OKO[  ]OKO[  ]OKO
+ON[  ]ON[  ]ON
+ONA[  ]ONA[  ]ONA
+ONE[  ]ONE[  ]ONE
+ONI[  ]ONI[  ]ONI
+ONO[  ]ONO[  ]ONO
+OS[  ]OS[  ]OS
+OTO[  ]OTO[  ]OTO
+OW[  ]OW[  ]OW
+OWO[  ]OWO[  ]OWO
+
+@P P P
+PAN[  ]PAN[  ]PAN
+PAS[  ]PAS[  ]PAS
+PAT[  ]PAT[  ]PAT
+PIC[  ]PIC[  ]PIC
+PO[  ]PO[  ]PO
+POD[  ]POD[  ]POD
+POL[  ]POL[  ]POL
+
+@R R R
+RAD[  ]RAD[  ]RAD
+RAK[  ]RAK[  ]RAK
+RAZ[  ]RAZ[  ]RAZ
+ROG[  ]ROG[  ]ROG
+ROK[  ]ROK[  ]ROK
+RYZ[  ]RYZ[  ]RYZ
+
+@S S S
+SA[  ]SA[  ]SA
+SAD[  ]SAD[  ]SAD
+SAM[  ]SAM[  ]SAM
+SEN[  ]SEN[  ]SEN
+SER[  ]SER[  ]SER
+SIE[  ]SIE[  ]SIE
+SOK[  ]SOK[  ]SOK
+SOL[  ]SOL[  ]SOL
+SOS[  ]SOS[  ]SOS
+STO[  ]STO[  ]STO
+SYN[  ]SYN[  ]SYN
+
+@T T T
+TA[  ]TA[  ]TA
+TAK[  ]TAK[  ]TAK
+TAM[  ]TAM[  ]TAM
+TE[  ]TE[  ]TE
+TEN[  ]TEN[  ]TEN
+TEZ[  ]TEZ[  ]TEZ
+TO[  ]TO[  ]TO
+TOM[  ]TOM[  ]TOM
+TON[  ]TON[  ]TON
+TOR[  ]TOR[  ]TOR
+TU[  ]TU[  ]TU
+TUZ[  ]TUZ[  ]TUZ
+TY[  ]TY[  ]TY
+TYL[  ]TYL[  ]TYL
+TYP[  ]TYP[  ]TYP
+
+@U U U
+USA[  ]USA[  ]USA
+
+@W W W
+WAZ[  ]WAZ[  ]WAZ
+WE[  ]WE[  ]WE
+WOZ[  ]WOZ[  ]WOZ
+WUJ[  ]WUJ[  ]WUJ
+WY[  ]WY[  ]WY
+
+@Z Z Z
+ZA[  ]ZA[  ]ZA
+ZAB[  ]ZAB[  ]ZAB
+ZAL[  ]ZAL[  ]ZAL
+ZAS[  ]ZAS[  ]ZAS
+ZE[  ]ZE[  ]ZE
+ZLE[  ]ZLE[  ]ZLE
+ZLY[  ]ZLY[  ]ZLY
+ZYC[  ]ZYC[  ]ZYC
+ZZA[  ]ZZA[  ]ZZA
