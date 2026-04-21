@@ -1,4 +1,5 @@
 ### MorseBOX Firmware
+<img width="426" height="398" alt="image" src="https://github.com/user-attachments/assets/1ea452b0-face-4e12-b91e-f19161b65432" />
 
 Wersja 8.4 https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_4.bin
 
