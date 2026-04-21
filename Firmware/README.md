@@ -1,3 +1,5 @@
+###MorseBOX Firmware!!!
+
 Wersja 8.4 https://github.com/hamhobbypl/morsebox/blob/main/Firmware/firmware_8_4.bin
 
 Zmiany:
