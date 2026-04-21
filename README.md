@@ -1,3 +1,8 @@
+
+### MorseBOX Firmware 
+
+<img width="426" height="398" alt="image" src="https://github.com/user-attachments/assets/1ea452b0-face-4e12-b91e-f19161b65432" />
+
 PL
 
 Configuration - przykładowe pliki konfiguracyjne MorseBOX na kartę SD
